@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "jupyterlab>=4.6.4",
+    "seaborn>=0.13.2",
     "taipy>=4.1.1",
 ]
 
